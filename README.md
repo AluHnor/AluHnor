@@ -83,4 +83,4 @@ RAVEN [000111]
 2.4 1.9 2.9 2.4 / 3.1 3:7 1.2 3.4 1.4 3.7 / 3.0 3.4 3.7 / 2.0 1.3 3.⚫ 3.6 3.⚫ 2.3 3.8 / 1.4 3.6 3.4 Alu'Hnor
 
 
-<img src="(https://res.cloudinary.com/dzl9rplpu/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1743047747/1743027766463asa_xczetv.png)" alt="=^.^=">
+<img src="https://res.cloudinary.com/dzl9rplpu/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1743047747/1743027766463asa_xczetv.png" alt="=^.^=">
