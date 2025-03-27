@@ -65,7 +65,19 @@ class DevInProgress extends Humano { constructor() { super(); this.paixão = "te
 ## 💭 Curiosidade
 
 
-Desenvolvo meu próprio RPG de mesa desde 2018. O projeto continua em andamento e em fases de testes fechados. Muitas energias boas foram depositadas no que carinhosa e amorosamente chamo de "meu projeto de vida". Talvez eu possa digitalizar este objetivo a partir dos cógidos ;")
+Desenvolvo meu próprio RPG de mesa desde 2018. O projeto continua em andamento e em fases de testes fechados. 
+Muitas energias boas foram depositadas no que carinhosa e amorosamente chamo de "meu projeto de vida". 
+Talvez eu possa digitalizar este objetivo a partir dos cógidos ;")
 
 
 Criptografias são sistemas muito interessantes, recomendo elaborar ou pesquisar sobre ☜(ﾟヮﾟ☜)
+
+RAVEN [000111]
+
+1.1 / 3.1 3.9 3.3 1.9 2.⚫ 3.7 1.3 3.9 1.1 3.2 3.3 1.1 / 1.7 3.6 1.3 2.3 / 2.⚫ 3.3 1.6 3.5 3.7 3.6 1.⬛ 1.⚫ 1.⬛ / 1.⚫ 2.⚫ / 3.8 2.4 3:6 1.4 2.7 3.5 1.0 1.6 / 3.3 3.7 3.8 1.7 1.1 1.9
+
+➖
+
+2.4 1.9 2.9 2.4 / 3.1 3:7 1.2 3.4 1.4 3.7 / 3.0 3.4 3.7 / 2.0 1.3 3.⚫ 3.6 3.⚫ 2.3 3.8 / 1.4 3.6 3.4 Alu'Hnor
+
+
