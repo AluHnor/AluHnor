@@ -66,7 +66,9 @@ class DevInProgress extends Humano { constructor() { super(); this.paixão = "te
 
 
 Desenvolvo meu próprio RPG de mesa desde 2018. O projeto continua em andamento e em fases de testes fechados. 
-Muitas energias boas foram depositadas no que carinhosa e amorosamente chamo de "meu projeto de vida". 
+
+Muitas energias boas foram depositadas no que carinhosa e amorosamente chamo de "meu projeto de vida".
+
 Talvez eu possa digitalizar este objetivo a partir dos cógidos ;")
 
 
