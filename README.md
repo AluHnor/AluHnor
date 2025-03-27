@@ -69,6 +69,3 @@ Desenvolvo meu próprio RPG de mesa desde 2018. O projeto continua em andamento 
 
 
 Criptografias são sistemas muito interessantes, recomendo elaborar ou pesquisar sobre ☜(ﾟヮﾟ☜)
-
-
-<img src="[URL_da_Imagem](https://res.cloudinary.com/dzl9rplpu/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1743047747/1743027766463asa_xczetv.png)" alt="=^.^=">
